@@ -16,7 +16,7 @@ Welcome to my GitHub profile. I'm a full-stack web developer with an inclination
 - Specialized Back-End Project: developed a specialized Back-End project using NestJS, TypeORM and PostgreSQL --> https://pihenrysimon-latest.onrender.com/api
 - Water-system project: currently developing a program to monitor water consumption at Alella Green Tech (Barcelona, Spain)
 
-###🐙 No-Code Expertise
+### 🐙 No-Code Expertise
 
 Before coding, I had 3 different jobs:
 - Financial advisor --> working at a finance broker is really cool, you can get to expose yourself, talk to clients, understand complex subjects and try to predict next market movements.
