@@ -3,7 +3,7 @@
 
 <blockquote style="font-size: 24px;">
   <p align="center">
-    <strong>"Difficult to see, always in motion is the future"</strong>
+    <strong>"All glory comes from daring to begin"</strong>
   </p>
 </blockquote>
 
