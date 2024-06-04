@@ -14,7 +14,7 @@ Welcome to my GitHub profile. I'm a full-stack web developer with an inclination
 
 - Music web-page: developed a comprehensive web-page using React, NodeJS, Cloudinary and MongoDB --> https://grau-music.vercel.app/
 - Specialized Back-End Project: developed a specialized Back-End project using NestJS, TypeORM and PostgreSQL --> https://pihenrysimon-latest.onrender.com/api
-- Water-system project: currently developing a program to monitor water consumption at Alella Green Tech (Barcelona, Spain)
+- Water-system project: developed a program to monitor water consumption at Alella Green Tech (Barcelona, Spain), using MQTT, Javascript and MongoDB. 
 
 ### 🐙 No-Code Expertise
 
