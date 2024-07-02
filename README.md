@@ -9,8 +9,11 @@
 
 Welcome to my GitHub profile. I'm a full-stack web developer with an inclination to backend. Coding has been very transformative in the way I approach things in life, so doing this is just training again and again to become better and learn new things.
 
-### 🚀 Coding Expertise
+### What am I even doing right now?
 
+Working as a backend developer at HelloMrLead (Barcelona, Spain). Making API connections, automating stuff and, above all, learning a lot.
+
+### 🚀 Coding Expertise
 
 - Music web-page: developed a comprehensive web-page using React, NodeJS, Cloudinary and MongoDB --> https://grau-music.vercel.app/
 - Specialized Back-End Project: developed a specialized Back-End project using NestJS, TypeORM and PostgreSQL --> https://pihenrysimon-latest.onrender.com/api
