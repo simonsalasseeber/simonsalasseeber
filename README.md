@@ -15,8 +15,9 @@ Working as a backend developer at HelloMrLead (Barcelona, Spain). Making API con
 
 ### 🚀 Coding Expertise
 
+- Parking app: with a six-person team we built a comprehensive web app for making parking lot reservations, using technologies such as Next.js (Front-end), Nest.js (Back-end), PostgreSQL (database), among others --> https://advanced-parking.vercel.app/
 - Music web-page: developed a comprehensive web-page using React, NodeJS, Cloudinary and MongoDB --> https://grau-music.vercel.app/
-- Specialized Back-End Project: developed a specialized Back-End project using NestJS, TypeORM and PostgreSQL --> https://pihenrysimon-latest.onrender.com/api
+- Specialized Back-End Project (currently down because of billing issues): developed a specialized Back-End project using NestJS, TypeORM and PostgreSQL --> https://pihenrysimon-latest.onrender.com/api
 - Water-system project: developed a program to monitor water consumption at Alella Green Tech (Barcelona, Spain), using MQTT, Javascript and MongoDB. 
 
 ### 🐙 No-Code Expertise
