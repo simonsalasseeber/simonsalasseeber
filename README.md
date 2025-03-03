@@ -11,7 +11,7 @@ Welcome to my GitHub profile. I'm a full-stack web developer with an inclination
 
 ### What am I even doing right now?
 
-Working as a backend developer at HelloMrLead (Barcelona, Spain). Making API connections, automating stuff and, above all, learning a lot.
+Working as a backend developer at RockStar Data (Barcelona, Spain). Developing all the backend, making API connections, automating stuff and, above all, learning a lot.
 
 ### 🚀 Coding Expertise
 
